@@ -1,0 +1,3 @@
+C:/Users/lanaj/OneDrive/Desktop/Kodovi/ASP/dom3/cmake-build-debug/CMakeFiles/dom3.dir
+C:/Users/lanaj/OneDrive/Desktop/Kodovi/ASP/dom3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lanaj/OneDrive/Desktop/Kodovi/ASP/dom3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
